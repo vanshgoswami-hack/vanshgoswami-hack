@@ -15,4 +15,4 @@ Following a 3-year roadmap: foundational skills → Security+ certification → 
 Python Bash C Linux Git Networking Basics
 
 📫 Connect with me
-LinkedIn: [add your link here]
+Gmail vanshgoswami628@gmail.com
