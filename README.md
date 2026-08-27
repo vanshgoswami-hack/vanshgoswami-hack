@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Vansh 👋
 
-<!--
-**vanshgoswami-hack/vanshgoswami-hack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA student specializing in Computer Networks & Cyber Security at Galgotias University
+🎯 Aspiring SOC Analyst → building toward Penetration Testing
+🌱 Currently learning: Linux fundamentals, Networking, Python, Bash scripting
+🛠️ Tools I'm exploring: TryHackMe, Wireshark, Git/GitHub, Nmap
+📍 Based in Greater Noida, UP (originally from Panipat)
 
-Here are some ideas to get you started:
+🔭 What I'm working on
+Building beginner-to-intermediate cybersecurity projects (log analyzers, phishing detectors, network scanners)
+Prepping for TryHackMe rooms and OverTheWire Bandit challenges
+Following a 3-year roadmap: foundational skills → Security+ certification → SOC internship
+🧰 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python Bash C Linux Git Networking Basics
+
+📫 Connect with me
+LinkedIn: [add your link here]
